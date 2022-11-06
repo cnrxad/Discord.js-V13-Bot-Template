@@ -1,14 +1,30 @@
 # Discord-Bot-Javascript-v13-Template
 Plantilla de bot, creador por akacannon.
 
+ <br>
+> <center>INFORMACIÓN</center>
+> <center>Plantilla para bot de discord.js v13<br></center>
+ <br>
 
 <br>
-<div align="center">
-<a href="https://www.npmjs.com/package/create_discord_bot_v13">
-<img src="https://img.shields.io/npm/v/create_discord_bot_v13?label=Version&logo=npm&style=for-the-badge">
-</a>
-<a href="https://www.npmjs.com/package/create_discord_bot_v13">
-<img alt="npm" src="https://img.shields.io/npm/dw/create_discord_bot_v13?logo=npm&style=for-the-badge">
-</a><br>
-</div>
-<br>
+
+## Instalación
+
+_Comandos para ejecutar en la terminal para iniciar la instalación._
+
+```
+npm i discord.js@13.9.0
+npm i fs
+```
+
+
+## Configuración ⚙️
+
+_Parámetros del bot configurables_
+
+```js
+{
+    "prefix":"!",
+    "token":"pon-aqui-tu-token"
+}
+```
