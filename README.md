@@ -1,5 +1,5 @@
 # Discord-Bot-Javascript-v13-Template
-Plantilla de bot, creador por akacannon.
+Plantilla de bot, creado por akacannon.
 
  <br>
 > <center>INFORMACIÓN</center>
